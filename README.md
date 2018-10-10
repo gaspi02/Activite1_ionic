@@ -1,1 +1,1 @@
-Activite1_ionic
+ionic-activite-1

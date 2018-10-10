@@ -1,0 +1,12 @@
+page-single-livre {
+  .is-on{
+    ion-card-content, ion-card-header, ion-grid{
+      background-color: color($colors, secondary);
+    }
+  }
+  .is-off{
+    ion-card-content, ion-card-header, ion-grid{
+      background-color: color($colors, danger);
+    }
+  }
+}
